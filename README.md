@@ -1,2 +1,2 @@
 # Data Science Master
-about function and it's program
+This is made to upload all the assignments for PW Data Science Masters Course
